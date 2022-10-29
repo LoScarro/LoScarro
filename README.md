@@ -4,8 +4,9 @@ Hi 👋 My name is Davide
 Computer Science student at Unige
 ---------------------------------
 
-* 🌍  I'm based in Genova
-* ✉️  You can contact me at [davisca2000@gmail.com](mailto:davisca2000@gmail.com)
+* I'm based in Genova
+* You can contact me at [davisca2000@gmail.com](mailto:davisca2000@gmail.com)
+* My Website: https://loscarro.it/
 
 ### Skills
 
