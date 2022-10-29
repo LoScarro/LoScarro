@@ -1,4 +1,4 @@
-Hi 👋 My name is Davide
+Hi My name is Davide
 =======================
 
 Computer Science student at Unige
