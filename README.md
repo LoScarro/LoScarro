@@ -1,7 +1,7 @@
 Hi My name is Davide
 =======================
 
-Computer Science student at Unige
+Software Security student at UniGE
 ---------------------------------
 
 * I'm based in Genova
