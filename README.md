@@ -1,6 +1,3 @@
-Hi My name is Davide
-=======================
-
 Software Security student at UniGE
 ---------------------------------
 
